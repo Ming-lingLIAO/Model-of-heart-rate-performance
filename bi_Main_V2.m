@@ -3,7 +3,7 @@
 
 
 
-! copy bi_functn_V2.m functn.m
+! copy bi_functn.m functn.m
 
 Files = dir('./*.csv');
 NumOfFiles = length(Files);
