@@ -3,7 +3,7 @@
 
 
 
-! copy uni_functn_V2.m functn.m
+! copy uni_functn.m functn.m
 
 Files = dir('./*.csv');
 NumOfFiles = length(Files);
