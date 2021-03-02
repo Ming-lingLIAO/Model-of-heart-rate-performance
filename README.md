@@ -1,2 +1,2 @@
-# Physiological-species-distribution-model-for-marine-molluscs
-Physiological species distribution model (pSDM) for evaluating and predicting impacts of climate change on species distribution of marine molluscs
+# Model-of-heart-rate-performance
+A model with multiple metabolic pathways to describe the performance curves with metabolic depression of marine molluscs
